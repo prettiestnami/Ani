@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS aniya_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE aniya_db;
+CREATE DATABASE IF NOT EXISTS aniyatrack CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE aniyatrack;
 
 SET FOREIGN_KEY_CHECKS=0;
 DROP TABLE IF EXISTS finance_transactions;
